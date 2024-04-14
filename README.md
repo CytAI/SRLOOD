@@ -19,7 +19,7 @@
 <h4>
 
 <!-- [![conf](https://img.shields.io/badge/COLING%?-orange?style=flat-square)](https://aclanthology.org/2024.coling-?/) -->
-<!-- [![arxiv](https://img.shields.io/badge/arXiv-??style=flat-square)](https://arxiv.org/abs/?) -->
+[![arxiv](https://img.shields.io/badge/arXiv-??style=flat-square)](https://arxiv.org/abs/2305.18026) 
 <!-- [![citation]() -->
 
 </h4>
